@@ -1,0 +1,11 @@
+{
+  "block": "#sidebar-tension-processing",
+  "texts": {
+    "h3": "ひずみ処理",
+    "li:nth-child(1) [class^='itemTitle']": "ひずみリスト",
+    "li:nth-child(2) [class^='itemTitle']": "アジェンダ",
+    "li:nth-child(3) [class^='itemTitle']": "アクション",
+    "li:nth-child(4) [class^='itemTitle']": "プロジェクト",
+    "li:nth-child(5) [class^='itemTitle']": "プロポーザル"
+  }
+}
