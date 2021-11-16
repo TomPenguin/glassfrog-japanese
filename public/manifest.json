@@ -1,5 +1,5 @@
 {
-  "name": "名前",
+  "name": "glassfrog-japanese",
   "manifest_version": 2,
   "version": "1.0",
   "browser_action": {
@@ -7,8 +7,10 @@
   },
   "content_scripts": [
     {
-      "matches": ["https://app.glassfrog.com/*"],
-      "js": ["content_scripts.js"]
+      "matches": [
+        "https://app.glassfrog.com/organizations/*/orgnav/roles/*/overview"
+      ],
+      "js": ["sideBar.js", "appHeader.js", "tabNavigation.js", "overview.js"]
     }
   ],
   "permissions": ["storage"]

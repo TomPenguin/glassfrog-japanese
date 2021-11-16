@@ -1,0 +1,14 @@
+[
+  {
+    "block": "#app-header [class^='headerSubscriptionButton']",
+    "texts": {
+      "[class^='buttonLabel']": "フォロー中"
+    }
+  },
+  {
+    "block": "#app-header [class^='headerMeetings']",
+    "texts": {
+      "[class^='startMeetingButton']": "ミーティングを始める"
+    }
+  }
+]

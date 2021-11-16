@@ -1,0 +1,16 @@
+[
+  {
+    "block": "[class^='tabsNavigationList']",
+    "texts": {
+      "[title='Overview']": "概要",
+      "[title='Roles']": "ロール",
+      "[title='Members']": "メンバー",
+      "[title='Policies']": "ポリシー",
+      "[title='Notes']": "ノート",
+      "[title='Projects']": "プロジェクト",
+      "[title='Checklists']": "チェックリスト",
+      "[title='Metrics']": "メトリクス",
+      "[title='History']": "履歴"
+    }
+  }
+]
